@@ -1,4 +1,4 @@
-
+(every image is a placeholder)
 PROJECT TITLE: Swordsman and Arrows
 PURPOSE OF PROJECT: Lab 7 game
 VERSION or DATE: V1.0
